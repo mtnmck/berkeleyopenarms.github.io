@@ -1,4 +1,4 @@
-theme: berkeleyrobot/minimal
+remote_theme: berkeleyrobot/minimal
 
 title: Quasi-Direct Drive for Low-Cost Compliant Robotic Manipulation
 logo: /assets/images/twoArmTeaser.jpg
