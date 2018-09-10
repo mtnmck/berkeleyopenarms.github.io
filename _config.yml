@@ -1,5 +1,4 @@
-theme: jekyll-theme-minimal
+theme: berkeleyrobot/minimal
 
-title: Blue
-description: Quasi-Direct Drive for Low-Cost Compliant Robotic Manipulation
+title: Quasi-Direct Drive for Low-Cost Compliant Robotic Manipulation
 logo: /assets/images/twoArmTeaser.jpg
