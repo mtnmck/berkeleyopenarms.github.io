@@ -10,8 +10,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ---
 
+# Table of Contents
 1. Table of Contents
 {:toc}
+
+---
 
 # Lead-through
 {: #leadthrough }
