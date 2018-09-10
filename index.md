@@ -61,17 +61,17 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 # VR Demos
 {: #vrdemos }
 
-### Coffee + Cleaning
+## Coffee + Cleaning
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### VR Interface/Teleoperation
+## VR Interface/Teleoperation
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Pick and Place with Screws
+## Pick and Place with Screws
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Decluttering
+## Decluttering
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Payload
+## Payload
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
