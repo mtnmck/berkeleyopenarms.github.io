@@ -10,6 +10,13 @@ This is Blue, a dexterous back-drivable 7-dof robot manipulator. On this page, w
 
 ---
 
+# Summary
+{: #summary }
+
+<iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Blha blah blah blah
+
 # Lead-through
 {: #leadthrough }
 
