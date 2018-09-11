@@ -57,22 +57,26 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 
 This collection of videos demonstrates the ability of a user to operate the robot through our VR system developed for the Vive system and interfaced with our robot over ethernet.
 
-## Coffee + Cleaning
+## Coffee & Cleaning
+{: #espresso }
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Our operator demonstrated the ability to make coffee using our telepresense system!
 
-## VR Interface/Teleoperation
+## VR Teleoperation
+{: #vr }
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
-## Pick and Place with Screws
+## Screw Pick and Place
+{: #pickandplace }
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This video demonstrates the accuracy and stability of the system while operated remotely. Here we pick screws off a flat surface and place them into a storage container.
 
-## Decluttering
+## Payload Demonstration
+{: #payload }
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Payload
