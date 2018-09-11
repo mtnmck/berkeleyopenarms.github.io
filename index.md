@@ -45,13 +45,6 @@ A single link is locked down and oriented vertically. A rod with a mass is attac
 
 A single upper link is locked down and connected to a perpendicular bar with load cells on either end. Similar to the position bandwidth, a chirp signal is then driven through each motor in opposing directions to cause rotation from 0.1 to 40Hz.
 
-# Thermal Video
-{: #thermal }
-
-<iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores.
-
 # VR Demos
 {: #vrdemos }
 
