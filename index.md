@@ -11,7 +11,7 @@ This is Blue, a dexterous back-drivable 7-dof robot manipulator. On this page, w
 # Summary
 {: #summary }
 
-<iframe src="https://www.youtube.com/embed/iYwsTlJR3o4" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/iYwsTlJR3o4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Quick highlight reel for Blue!
 
