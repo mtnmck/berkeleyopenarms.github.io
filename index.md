@@ -6,6 +6,8 @@ This is Blue, a dexterous back-drivable 7-dof robot manipulator. On this page, w
 
 [Link to the paper coming soon!](https://berkeleyopenrobotics.github.io).
 
+<iframe src="https://drive.google.com/file/d/1IIJE8LaXqsBkqYoe7xZxhNppKoo9f9eV/preview" width="640" height="480"></iframe>
+
 ---
 
 # Summary
