@@ -80,3 +80,4 @@ This video demonstrates the accuracy and stability of the system while operated 
 
 ## Payload
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1UxRmDHHIO3JF8z4g471OeV1izaAI5V2I/preview" width="640" height="480"></iframe>
