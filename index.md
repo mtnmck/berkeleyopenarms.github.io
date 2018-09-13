@@ -26,7 +26,7 @@ Here we record a set of joint states at a fixed rate. We then replay the recordi
 # Repeatability Tests
 {: #repeatability }
 
-<iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/open?id=1CzDYBPqnJ76_ehATZPjpAoMpa5ds8P1f" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This test shows the accuracy of our system to return to a given position regardless of where it is currently located.
 
