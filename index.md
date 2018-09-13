@@ -2,9 +2,9 @@
 layout: default
 ---
 
-This is Blue, a dexterous back-drivable 7-dof robot manipulator. On this page, we demonstrate the capabilities of Blue.
+This is Blue, a dexterous back-drivable low-cost 7-dof robot manipulator. This website is a companion to our paper (submitted to ICRA/RA-L 2019) and is intended to provide more detail into the technical capabilities of the robot and the metrics we used to characterize its performance.
 
-[Link to the paper coming soon!](<iframe src="https://drive.google.com/file/d/1IIJE8LaXqsBkqYoe7xZxhNppKoo9f9eV/preview" width="640" height="480"></iframe>).
+[Link to the paper:](<iframe src="https://drive.google.com/file/d/1IIJE8LaXqsBkqYoe7xZxhNppKoo9f9eV/preview" width="640" height="480"></iframe>).
 
 
 ---
