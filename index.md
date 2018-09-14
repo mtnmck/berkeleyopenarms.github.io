@@ -4,50 +4,59 @@ layout: default
 
 This is Blue, a dexterous back-drivable low-cost 7-dof robot manipulator. This website is a companion to our paper (submitted to ICRA/RA-L 2019) and is intended to provide more detail into the technical capabilities of the robot and the metrics we used to characterize its performance.
 
-[Link to the paper:](<iframe src="https://drive.google.com/file/d/1IIJE8LaXqsBkqYoe7xZxhNppKoo9f9eV/preview" width="640" height="480"></iframe>).
+<!-- [Link to the paper:](<iframe src="https://drive.google.com/file/d/1IIJE8LaXqsBkqYoe7xZxhNppKoo9f9eV/preview" width="640" height="480"></iframe>). -->
+
+<iframe src="https://drive.google.com/file/d/1IIJE8LaXqsBkqYoe7xZxhNppKoo9f9eV/preview" width="640" height="480"></iframe>
 
 
 ---
 
-# Summary
+<!-- # Summary
 {: #summary }
-
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 Quick highlight reel for Blue!
+-->
 
 # Lead-through
 {: #leadthrough }
 
-<iframe src="https://drive.google.com/file/d/1Qp-l3Wdo7VPP-j9xcByH4O2uVJeofC_Y/preview" width="640" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S5guqiHGjSE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Here we record a set of joint states at a fixed rate. We then replay the recording and demonstrate the back-drivability of the arm by apply external force.
 
 # Repeatability Tests
 {: #repeatability }
 
-<iframe src="https://drive.google.com/file/d/1CzDYBPqnJ76_ehATZPjpAoMpa5ds8P1f/preview" width="640" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y4ltW0phI20?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 This test shows the accuracy of our system to return to a given position regardless of where it is currently located.
 
 # Step Response
 {: #stepresponse }
 
-<iframe src="https://drive.google.com/file/d/1Fg5GkaVd5niZoukI4D40hBPBYDLEaUUP/preview" width="640" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SeSDWsjHMtk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 We apply an immediate position offset and observe a quick, smooth transition.
 
 # Position Bandwidth
 {: #positionbandwidth }
 
-<iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7U2GJyjpbi4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XqewGmuDq2E?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sodNIZs1Zpo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gO6OIa-8Rqk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XOwPUNmwlpQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 A single link is locked down and oriented vertically. A rod with a mass is attached at fixed radii to create pre-determined inertias. A chirp signal is then run to oscillate the arm over the frequency range of 0.1 to 40Hz.
 
 # Torque Bandwidth
 {: #torquebandwidth }
 
-<iframe src="https://drive.google.com/file/d/1spKpcmGCzFmTW6NkhzTs5K2-9vP05oT5/preview" width="640" height="480"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x70Ds4cHSCw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 A single upper link is locked down and connected to a perpendicular bar with load cells on either end. Similar to the position bandwidth, a chirp signal is then driven through each motor in opposing directions to cause rotation from 0.1 to 40Hz.
 
