@@ -33,7 +33,7 @@ This test shows the accuracy of our system to return to a given position regardl
 # Step Response
 {: #stepresponse }
 
-<iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1Fg5GkaVd5niZoukI4D40hBPBYDLEaUUP/preview" width="640" height="480"></iframe>
 
 We apply an immediate position offset and observe a quick, smooth transition.
 
@@ -47,7 +47,7 @@ A single link is locked down and oriented vertically. A rod with a mass is attac
 # Torque Bandwidth
 {: #torquebandwidth }
 
-<iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1spKpcmGCzFmTW6NkhzTs5K2-9vP05oT5/preview" width="640" height="480"></iframe>
 
 A single upper link is locked down and connected to a perpendicular bar with load cells on either end. Similar to the position bandwidth, a chirp signal is then driven through each motor in opposing directions to cause rotation from 0.1 to 40Hz.
 
