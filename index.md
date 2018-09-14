@@ -68,11 +68,13 @@ This collection of videos demonstrates the ability of a user to operate the robo
 <!--## Coffee & Cleaning
 {: #espresso }
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Our operator demonstrated the ability to make coffee using our telepresense system!
+Our operator demonstrated the ability to make coffee using our telepresense system! 
+-->
 
 <!--## VR Teleoperation
 {: #vr }
 <iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+-->
 
 
 ## Screw Pick and Place
