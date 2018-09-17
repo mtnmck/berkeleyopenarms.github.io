@@ -22,14 +22,14 @@ Quick highlight reel for Blue!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S5guqiHGjSE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Here we record a set of joint states at a fixed rate. We then replay the recording and demonstrate the back-drivability of the arm by apply external force.
+Here we record a set of joint states while a human guides the robot through an arbitrary set of motions. We then replay the recording and demonstrate the back-drivability of the arm by apply external force (through a second human).
 
 # Repeatability Tests
 {: #repeatability }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4ltW0phI20?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-This test shows the accuracy of our system to return to a given position regardless of where it is currently located.
+This test shows the accuracy of our system in returning to a given home position from a set of eight end poses. The home pose repeatability is within a 4mm radius. The end-pose repeatability is within 3mm.
 
 # Step Response
 {: #stepresponse }
@@ -65,11 +65,10 @@ A single upper link is locked down and connected to a perpendicular bar with loa
 
 This collection of videos demonstrates the ability of a user to operate the robot through our VR system developed for the Vive system and interfaced with our robot over ethernet.
 
-<!-- ## Coffee & Cleaning
+## Coffee & Cleaning
 {: #espresso }
-<iframe src="https://www.youtube.com/embed/G4QQ8Mfjb_g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMbaLvTCDYo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Our operator demonstrated the ability to make coffee using our telepresense system! 
--->
 
 <!-- ## VR Teleoperation
 {: #vr }
