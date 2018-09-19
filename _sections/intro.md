@@ -1,6 +1,7 @@
 ---
 title: Introduction
 order: 0
+hide_title: true
 ---
 
 ![robot](/assets/images/twoArmTeaserFade.jpg)
