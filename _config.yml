@@ -2,3 +2,11 @@ remote_theme: brentyi/osa
 
 title: Quasi-Direct Drive for Low-Cost Compliant Robotic Manipulation
 logo: /assets/images/twoArmTeaserFade.jpg
+
+collections:
+  sections:
+    output: false
+
+sass:
+  sass_dir: _sass
+  style: compressed
