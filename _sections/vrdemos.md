@@ -8,7 +8,7 @@ We found two-armed teleoperation to be extremely difficult to coordinate.
 
 ## Coffee & Cleaning
 {: #espresso }
-<iframe src="https://www.youtube.com/embed/gMbaLvTCDYo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SNRP-QD19Mo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 Our operator demonstrates the ability to make coffee using the telepresense system. This is a difficult task for a robot to accomplish becauise there are small targets (such as the 'on' button), deformable objects (such as the paper cup), fine movements (loading the machine), and liquids (pouring the coffee). The robot spills a little in the process and then shows its ability to clean up a mess afterwards.
 
 <!-- ## VR Teleoperation
