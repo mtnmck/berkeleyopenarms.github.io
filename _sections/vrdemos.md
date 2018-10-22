@@ -25,5 +25,6 @@ This video demonstrates the accuracy and stability of the system while operated 
 
 ## Payload Demonstration
 {: #payload }
-<iframe src="https://drive.google.com/file/d/1UxRmDHHIO3JF8z4g471OeV1izaAI5V2I/preview"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_LI3MCf2Rh0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Blue has the ability to hold over 2kg at arms-length. Closer to its body, the robot's payload increases. Note (at the end of the video) when the robot drops the 5lb weight on the the hand of the robot!
